@@ -6,7 +6,7 @@ set number
 
 set ts=4
 set sw=4
-set expandtab
+"set expandtab
 
 " macvim settings
 " dont show toolbar

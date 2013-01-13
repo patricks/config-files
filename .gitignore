@@ -1,3 +1,7 @@
+# SVN files #
+#############
+.svn
+
 # Compiled source #
 ###################
 *.com
@@ -33,7 +37,28 @@
 ehthumbs.db
 Icon?
 Thumbs.db
+.Trashes
+.Spotlight-V100
 
 # Editors #
 ###########
+*~
 *.swp
+
+# Xcode #
+#########
+build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+profile
+*.moved-aside
+
