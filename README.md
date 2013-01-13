@@ -2,7 +2,7 @@ config-files
 ==============
 
 these are some of my config files. <br />
-<br />
+
 * .gitignore: my git ignore file
 * .profile: my profile file
 * .vimrc: my vim/macvim config file
