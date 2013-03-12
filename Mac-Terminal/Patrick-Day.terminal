@@ -27,6 +27,8 @@
 	<true/>
 	<key>FontWidthSpacing</key>
 	<real>1.004032258064516</real>
+	<key>Linewrap</key>
+	<true/>
 	<key>ProfileCurrentVersion</key>
 	<real>2.02</real>
 	<key>TextColor</key>
@@ -45,5 +47,7 @@
 	<integer>0</integer>
 	<key>type</key>
 	<string>Window Settings</string>
+	<key>useOptionAsMetaKey</key>
+	<true/>
 </dict>
 </plist>
