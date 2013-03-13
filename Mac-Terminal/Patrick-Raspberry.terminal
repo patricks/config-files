@@ -42,12 +42,12 @@
 	<key>VisualBell</key>
 	<true/>
 	<key>name</key>
-	<string>Patrick-Day</string>
+	<string>Patrick-Raspberry</string>
 	<key>shellExitAction</key>
 	<integer>0</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 	<key>useOptionAsMetaKey</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
