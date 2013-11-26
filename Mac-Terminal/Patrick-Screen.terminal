@@ -42,7 +42,7 @@
 	<key>VisualBell</key>
 	<true/>
 	<key>name</key>
-	<string>Patrick-Raspberry</string>
+	<string>Patrick-Screen</string>
 	<key>shellExitAction</key>
 	<integer>0</integer>
 	<key>type</key>
