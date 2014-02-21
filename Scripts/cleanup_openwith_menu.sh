@@ -1,7 +1,7 @@
 #!/bin/sh
 #####################################################
 #                                                   #
-# clean up the open with context menu               # 
+# OS X: clean up the open with context menu         # 
 #                                                   #
 # @version: 1.0                                     #
 # @date: 20.11.2012 14:19                           #

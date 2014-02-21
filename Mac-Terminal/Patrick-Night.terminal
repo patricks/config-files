@@ -73,7 +73,5 @@
 	<integer>0</integer>
 	<key>type</key>
 	<string>Window Settings</string>
-	<key>useOptionAsMetaKey</key>
-	<false/>
 </dict>
 </plist>

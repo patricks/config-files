@@ -40,9 +40,11 @@ ZSH_THEME="robbyrussell"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git osx brew)
+plugins=(git osx brew ruby rails rvm)
 
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
-export PATH=$PATH:/Applications/adt-bundle-mac-x86_64-20130729/sdk/platform-tools:/Users/patrick/bin
+export PATH=$PATH:/Applications/Android\ Studio.app/sdk/platform-tools:/Users/patrick/bin
+
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting

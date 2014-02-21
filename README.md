@@ -1,10 +1,14 @@
 config-files
 ==============
 
-these are some of my config files. <br />
+These are some of my config files.
 
-* .gitignore: my git ignore file
-* .profile: my profile file
-* .vimrc: my vim/macvim config file
-* .zshrc: my zsh config file
-* Macterminal/Patrick.terminal: my mac terminal config file
+* .gitignore: My git ignore file
+* .profile: My profile file
+* .vimrc: My vim/macvim config file
+* .zshrc: My zsh config file
+* Macterminal/Patrick-Day.terminal: My mac terminal day config file
+* Macterminal/Patrick-Night.terminal: My mac terminal night config file
+* Macterminal/Patrick-Screen.terminal: My mac terminal screen config file
+* oh-my-zsh/: Oh my zsh config files
+* Scripts/: Some of my scripts I could use one more machines
