@@ -12,3 +12,5 @@ set sw=4
 " dont show toolbar
 set guioptions-=T
 colorscheme desert
+
+set modelines=1
