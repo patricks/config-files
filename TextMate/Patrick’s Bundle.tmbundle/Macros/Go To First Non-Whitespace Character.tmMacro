@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>BB5E0BFF-9181-4BB7-BCDD-374A34C29BB9</string>
+	<key>commands</key>
+	<array>
+		<dict>
+			<key>command</key>
+			<string>moveToBeginningOfLine:</string>
+		</dict>
+		<dict>
+			<key>argument</key>
+			<dict>
+				<key>action</key>
+				<string>findNext</string>
+				<key>findInProjectIgnoreCase</key>
+				<integer>0</integer>
+				<key>findInProjectRegularExpression</key>
+				<false/>
+				<key>findString</key>
+				<string>[^\s]|\n</string>
+				<key>ignoreCase</key>
+				<false/>
+				<key>regularExpression</key>
+				<true/>
+				<key>replaceAllScope</key>
+				<string>selection</string>
+				<key>replaceAllString</key>
+				<string></string>
+				<key>wrapAround</key>
+				<integer>1</integer>
+			</dict>
+			<key>command</key>
+			<string>findWithOptions:</string>
+		</dict>
+		<dict>
+			<key>command</key>
+			<string>moveLeft:</string>
+		</dict>
+	</array>
+	<key>keyEquivalent</key>
+	<string>@</string>
+	<key>name</key>
+	<string>Go To First Non-Whitespace Character</string>
+	<key>uuid</key>
+	<string>E5D05693-5D4F-4D90-80CD-8D8B3589E7C1</string>
+</dict>
+</plist>
