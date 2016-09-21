@@ -14,3 +14,6 @@ set guioptions-=T
 colorscheme desert
 
 set modelines=1
+
+" CocoaPods pod file highlighting
+au BufRead,BufNewFile Podfile set filetype=ruby
