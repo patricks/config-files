@@ -1,0 +1,11 @@
+Installed Theme:
+- native-ui
+
+Installed Packages:
+- git-time-machine
+- linter
+- linter-ruby
+- markdown-preview-plus
+- merge-conflicts
+- multi-cursor
+- ruby-block
