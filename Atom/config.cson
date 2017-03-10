@@ -1,0 +1,30 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "7f0826b8-2a0f-4963-a6b3-e19e90f0ea87"
+  core:
+    allowPendingPaneItems: false
+    projectHome: "/Users/patrick/Developer"
+    telemetryConsent: "limited"
+    themes: [
+      "native-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontSize: 12
+    invisibles: {}
+  "exception-reporting":
+    userId: "cb01c5b0-4979-de61-27e4-b926fd4d1805"
+  linter: {}
+  "ruby-block":
+    highlightLineNumber: true
+    showBottomPanel: false
+  "split-diff":
+    diffWords: true
+    ignoreWhitespace: true
+    leftEditorColor: "red"
+    rightEditorColor: "green"
+    syncHorizontalScroll: true
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
