@@ -78,5 +78,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias mc='LANG=en_EN.UTF-8 mc'
+alias filepath='find `pwd` -name $1'
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
