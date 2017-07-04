@@ -13,6 +13,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'martinda/Jenkinsfile-vim-syntax'
 Plugin 'keith/swift.vim'
 Plugin 'jvirtanen/vim-cocoapods'
+Plugin 'udalov/kotlin-vim'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
