@@ -1,5 +1,6 @@
 BasedOnStyle: LLVM
 IndentWidth: 4
+ColumnLimit: 160
 BreakBeforeBraces: Linux
 AllowShortIfStatementsOnASingleLine: false
 ColumnLimit: 0
