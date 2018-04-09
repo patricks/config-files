@@ -6,5 +6,9 @@
         "statusBar.debuggingBackground": "#511f1f"
     },
 
-    "editor.scrollBeyondLastLine": false
+    "editor.scrollBeyondLastLine": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderWhitespace": "boundary",
+    "editor.multiCursorModifier": "alt",
+    "workbench.statusBar.feedback.visible": false
 }
