@@ -1,0 +1,12 @@
+excluded:
+ - Pods
+
+line_length: 200
+file_length: 650
+type_body_length: 400
+function_body_length: 50
+cyclomatic_complexity: 20
+
+disabled_rules:
+ - empty_enum_arguments
+ - todo
