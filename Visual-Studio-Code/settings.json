@@ -10,5 +10,6 @@
     "workbench.startupEditor": "newUntitledFile",
     "editor.renderWhitespace": "boundary",
     "editor.multiCursorModifier": "alt",
-    "workbench.statusBar.feedback.visible": false
+    "workbench.statusBar.feedback.visible": false,
+    "window.zoomLevel": 0
 }
