@@ -16,3 +16,4 @@ These are some of my config files.
 * Visual-Studio-Code/: My Visual Studio Code config file
 * .clang-format: My clang format config file
 * .swiftlint.yml: My swift lint config file (unfinished)
+* Xcode-CodeSnippets/: Code snippets for Xcode -> ~/Library/Developer/Xcode/UserData/CodeSnippets
