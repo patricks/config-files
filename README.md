@@ -17,3 +17,4 @@ These are some of my config files.
 * .clang-format: My clang format config file
 * .swiftlint.yml: My swift lint config file (unfinished)
 * Xcode-CodeSnippets/: Code snippets for Xcode -> ~/Library/Developer/Xcode/UserData/CodeSnippets
+* macOS/: My macOS setup

@@ -1,0 +1,45 @@
+#!/bin/sh
+
+# macOS settings
+
+echo "Setting up macOS"
+
+## Keyboard
+
+# Keyboard repeat rate
+defaults write NSGlobalDomain KeyRepeat -int 2
+
+# Disalbe auto correct
+defaults write NSGlobalDomain NSAutomaticSpellingCorrectionEnabled -bool false
+
+# Disalbe automatically capitalise words
+defaults write NSAutomaticCapitalizationEnabled -bool false
+
+# Enable full keyboard access for all controls
+defaults write NSGlobalDomain AppleKeyboardUIMode -int 2
+
+## Desktop & Screensaver
+
+# Hot Corners - start screensaver at the top right corner + cmd
+defaults write com.apple.dock wvous-bl-corner -int 5
+defaults write com.apple.dock wvous-bl-modifier -int 1048576
+
+## Dock
+
+# Dock size
+defaults write com.apple.dock size -int 70
+
+# Dock Magnification
+defaults write com.apple.dock magnification -int 1
+
+# Move Dock to the left
+defaults write com.apple.dock orientation -string "left"
+
+# Automatically hide and show the Dock
+defaults write com.apple.dock autohide -bool true
+
+## Screenshots
+
+# Default screenshot location
+mkdir -p ~/Downloads/Screenshots
+defaults write com.apple.screencapture location ~/Downloads/Screenshots
