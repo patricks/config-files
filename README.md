@@ -18,3 +18,4 @@ These are some of my config files.
 * .swiftlint.yml: My swift lint config file (unfinished)
 * Xcode-CodeSnippets/: Code snippets for Xcode -> ~/Library/Developer/Xcode/UserData/CodeSnippets
 * macOS/: My macOS setup
+* Xcode/: My Xcode setup
