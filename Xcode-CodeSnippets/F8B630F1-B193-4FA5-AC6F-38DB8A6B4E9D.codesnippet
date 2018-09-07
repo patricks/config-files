@@ -8,7 +8,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>deinit {
-        print("☠️: deinit \(#function) - \(#file)")
+        print("☠️: \(#function) - \(#file)")
     }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F8B630F1-B193-4FA5-AC6F-38DB8A6B4E9D</string>
