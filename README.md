@@ -13,7 +13,7 @@ These are some of my config files.
 * oh-my-zsh/: Oh my zsh config files
 * Scripts/: Some of my scripts I could use one more machines
 * Atom/: My Atom config file
-* Visual-Studio-Code/: My Visual Studio Code config file
+* Visual-Studio-Code\_VSCodium/: My Visual Studio Code / VSCodium config file
 * .clang-format: My clang format config file
 * .swiftlint.yml: My swift lint config file (unfinished)
 * Xcode-CodeSnippets/: Code snippets for Xcode -> ~/Library/Developer/Xcode/UserData/CodeSnippets
