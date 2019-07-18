@@ -2,22 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>DBG</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
-		<string>CodeBlock</string>
-		<string>TopLevel</string>
+		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>print("🐞: &lt;# debug info #&gt;")</string>
+	<string>// MARK: Action</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>009BC73E-B2B8-40DF-893D-2F5F634D86A4</string>
+	<string>F6E7FA4B-182B-4282-B840-A8EB1398481B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Debug - Print</string>
+	<string>MARK - Action</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

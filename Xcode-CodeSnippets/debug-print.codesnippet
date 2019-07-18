@@ -2,20 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>DBG</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
+		<string>TopLevel</string>
+		<string>CodeBlock</string>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>deinit {
-        print("☠️: \(#function) - \(#file)")
-    }</string>
+	<string>print("🐞: &lt;# debug info #&gt;")</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F8B630F1-B193-4FA5-AC6F-38DB8A6B4E9D</string>
+	<string>009BC73E-B2B8-40DF-893D-2F5F634D86A4</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>☠️ Deinit Debugging</string>
+	<string>Debug - Print 🐞</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
