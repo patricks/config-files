@@ -6,20 +6,19 @@
 	<string></string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
+		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>deinit {
-        print("☠️: \(#function) - \(#file)")
-    }</string>
+	<string>// MARK: Dialog</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F8B630F1-B193-4FA5-AC6F-38DB8A6B4E9D</string>
+	<string>31BFB422-A8DC-4574-ADC6-F5E4FE539714</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Debug - Deinit ☠️</string>
+	<string>MARK - Dialog</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
