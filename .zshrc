@@ -100,6 +100,7 @@ export LANG=en_US.UTF-8
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias pi='bundle exec pod install'
 
 # z command
 . /opt/homebrew/etc/profile.d/z.sh
