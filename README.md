@@ -1,21 +1,30 @@
-config-files
-==============
+# config-files
 
-These are some of my config files.
+Personal configuration files and setup scripts for macOS and terminal tools.
 
-* .gitignore: My git ignore file
-* .profile: My profile file
-* .vimrc: My vim/macvim config file
-* .zshrc: My zsh config file
-* Macterminal/Patrick-Day.terminal: My mac terminal day config file
-* Macterminal/Patrick-Night.terminal: My mac terminal night config file
-* Macterminal/Patrick-Screen.terminal: My mac terminal screen config file
-* oh-my-zsh/: Oh my zsh config files
-* Scripts/: Some of my scripts I could use one more machines
-* Atom/: My Atom config file
-* Visual-Studio-Code\_VSCodium/: My Visual Studio Code / VSCodium config file
-* .clang-format: My clang format config file
-* .swiftlint.yml: My swift lint config file (unfinished)
-* Xcode-CodeSnippets/: Code snippets for Xcode -> ~/Library/Developer/Xcode/UserData/CodeSnippets
-* macOS/: My macOS setup
-* Xcode/: My Xcode setup
+The repository is organized by tool and target location instead of keeping individual dotfiles directly in the repository root.
+
+## Contents
+
+- `Mac-Terminal/`: profiles for the macOS Terminal app
+- `Scripts/`: small reusable helper files and script building blocks
+- `Xcode/`: simple setup scripts for Xcode preferences
+- `Xcode-CodeSnippets/`: Xcode code snippets for `~/Library/Developer/Xcode/UserData/CodeSnippets`
+- `macOS/`: `defaults` scripts for macOS system preferences
+- `profile/`: shell profile files, currently `profile/profile`
+- `tmux/`: tmux configuration, currently `tmux/tmux.conf`
+- `vim/`: Vim configuration, currently `vim/vimrc`
+- `nvim/`: placeholder for Neovim configuration
+
+## Typical Target Locations
+
+- `profile/profile` -> `~/.profile`
+- `tmux/tmux.conf` -> `~/.tmux.conf`
+- `vim/vimrc` -> `~/.vimrc`
+- `Xcode-CodeSnippets/*` -> `~/Library/Developer/Xcode/UserData/CodeSnippets/`
+
+## Setup Notes
+
+- `macOS/defaults.install` applies a few macOS defaults such as keyboard, Dock, and screenshot settings.
+- `Xcode/settings.install` applies a few editor defaults for Xcode.
+- These scripts do not provide complete provisioning; they document and automate a selected subset of preferences.
